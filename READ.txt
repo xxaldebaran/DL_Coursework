@@ -1,0 +1,6 @@
+The semester project was done by second year IT student Daria Tovstohan, supervised by Dr. Linas Bukauskas. 
+The electronic version of the code contains a Python code that executes a deep learning model, that was tested and trained on data set. 
+
+The course_work_sat_imgs.ipynb file containes Python code and should be opened and run in Google Colab environment, as well as Semantic segmentation dataset for the code to run correctly. 
+
+Google Colab link: https://colab.research.google.com/
